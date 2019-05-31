@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 '''
-គូសបន្ទាត់សមីការដឺក្រេទី១ y = 2x - 1
+សមីការបន្ទាត់ y = 2x - 1
 
  x | y
  ------
